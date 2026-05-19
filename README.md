@@ -29,7 +29,7 @@ An advanced, autonomous AI pipeline designed to accelerate and standardize the S
 If you use this system in your research, please cite it using the provided DOI.
 
 **APA Format:**
-> Arsyuddin, M. (2026). SLR AI Agent System (Version 3.6.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.[Nomor-DOI-Anda]
+> Arsyuddin, M. (2026). SLR AI Agent System (Version 3.7.2) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.20280474
 
 Alternatively, click the **"Cite this repository"** button on the right sidebar of this GitHub page.
 
