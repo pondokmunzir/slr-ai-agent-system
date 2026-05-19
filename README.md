@@ -1,6 +1,6 @@
 # 🤖 SLR AI Agent System V3.6
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.[Nomor-DOI-Anda].svg)](https://doi.org/10.5281/zenodo.[Nomor-DOI-Anda])
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20280474)](https://doi.org/10.5281/zenodo.20280474]) 
 [![Version](https://img.shields.io/badge/version-3.6.0-blue.svg)](https://kreasinesia.myscalev.com)
 
 An advanced, autonomous AI pipeline designed to accelerate and standardize the Systematic Literature Review (SLR) process. From full-text data extraction to PRISMA-compliant manuscript generation.
