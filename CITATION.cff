@@ -1,12 +1,12 @@
 cff-version: 1.2.0
 message: "If you use this software in your research, please cite it using the following metadata."
 title: "SLR AI Agent System: Automated Systematic Literature Review Framework"
-version: 3.6.0
+version: 3.7.2
 date-released: 2026-05-19
 authors:
   - family-names: "Arsyuddin"
     given-names: "Munzir"
-doi: "10.5281/zenodo.[Nomor-DOI-Anda]" # Jangan lupa ganti ini dengan DOI asli dari Zenodo nanti
+doi: "10.5281/zenodo.20280474" 
 url: "https://kreasinesia.myscalev.com"
-repository-code: "https://github.com/[UsernameGitHub]/[Nama-Repo]"
-abstract: "SLR AI Agent System V3.6 is an advanced autonomous pipeline for accelerating Systematic Literature Reviews. It automates data extraction, meta-analysis, and PRISMA-compliant manuscript generation."
+repository-code: "https://github.com/pondokmunzir/slr-ai-agent-system"
+abstract: "SLR AI Agent System V3.7.2 is an advanced autonomous pipeline for accelerating Systematic Literature Reviews. It automates data extraction, meta-analysis, and PRISMA-compliant manuscript generation."
